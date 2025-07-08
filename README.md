@@ -1,16 +1,31 @@
-## Hi there 👋
+# console.log('Hello world! I'm Lexi');
 
-<!--
-**nihilistic-lex/nihilistic-lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>const devProfile = {  
+    role: 'aspiring junior front-end dev',  
+    currentlyLearning: 'JavaScript (ES6+)',
+    upNext: 'front-end libraries',  
+    currentProjects: 'a calculator that is driving my brain to do number-saults | a medieval text-based city builder',  
+    interests: 'building cool web apps | pixel graphics | game development',  
+    training: 'studying with freeCodeCamp | building side quest mini projects',  
+    mission: 'battling bugs and conquering deadlines like a digital warrior'  
+}</pre>
 
-Here are some ideas to get you started:
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 
+🎯 let role = 'aspiring junior front-end dev';  
+💻 let currentlyLearning = 'JavaScript (ES6+) | up next: front-end libraries';  
+🎮 const interests = 'building cool web apps | pixel graphics | game development';  
+🛠️ let currentProjects = 'a calculator that is driving my brain to do number-saults | a medieval text-based city builder';  
+🌱 const training = 'studying with freeCodeCamp | building side quest mini projects';  
+⚔️ const mission = 'battling bugs and conquering deadlines like a digital warrior';  
+!-->
+
+## 🔗 where to find me
+`const email = (msg) => { return 'Send me a msg at`[lexisantos094@gmail.com](mailto:lexisantos094@gmail.com)`'; }`  
+`const linkedIn = (connect) => { return 'Let\'s connect on`[linkedin.com/in/lexisantos](https://www.linkedin.com/in/lexisantos)`'; }`
