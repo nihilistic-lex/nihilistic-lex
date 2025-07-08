@@ -17,15 +17,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-<!-- 
-🎯 let role = 'aspiring junior front-end dev';  
-💻 let currentlyLearning = 'JavaScript (ES6+) | up next: front-end libraries';  
-🎮 const interests = 'building cool web apps | pixel graphics | game development';  
-🛠️ let currentProjects = 'a calculator that is driving my brain to do number-saults | a medieval text-based city builder';  
-🌱 const training = 'studying with freeCodeCamp | building side quest mini projects';  
-⚔️ const mission = 'battling bugs and conquering deadlines like a digital warrior';  
-!-->
-
 ## 🔗 where to find me
 `const email = (msg) => { return 'Send me a msg at`[lexisantos094@gmail.com](mailto:lexisantos094@gmail.com)`'; }`  
 `const linkedIn = (connect) => { return 'Let\'s connect on`[linkedin.com/in/lexisantos](https://www.linkedin.com/in/lexisantos)`'; }`
