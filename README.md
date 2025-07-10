@@ -10,12 +10,14 @@
     mission: 'battling bugs and conquering deadlines like a digital warrior'  
 }</pre>
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=green)
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
+    <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" alt="freeCodeCamp" style="height: 30px; width: auto; vertical-align: middle;" />
+</p>
 
 ## 🔗 where to find me
 `const email = (msg) => { return 'Send me a msg at`[lexisantos094@gmail.com](mailto:lexisantos094@gmail.com)`'; }`  
