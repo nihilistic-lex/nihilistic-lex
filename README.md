@@ -1,13 +1,13 @@
 # console.log('Hello world! I'm Lexi');
 
 <pre>const devProfile = {  
-    role: 'aspiring junior front-end dev',  
-    currentlyLearning: 'JavaScript (ES6+)',
-    upNext: 'front-end libraries',  
-    currentProjects: 'a calculator that is driving my brain to do number-saults | a medieval text-based city builder',  
+    role: 'aspiring front-end dev',  
+    currentlyLearning: 'React.JS', 
+    currentProjects: 'entertainment discussion board website | a medieval text-based city builder',  
     interests: 'building cool web apps | pixel graphics | game development',  
-    training: 'studying with freeCodeCamp | building side quest mini projects',  
-    mission: 'battling bugs and conquering deadlines like a digital warrior'  
+    training: 'studying with freeCodeCamp | YouTube tutorials | building side quest mini projects',  
+    mission: 'battling bugs and conquering deadlines like a digital warrior',
+    techStack: 'HTML | CSS | JavaScript | React.JS | Tailwind CSS'
 }</pre>
 
 <p align="center">
