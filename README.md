@@ -7,8 +7,8 @@
     interests: 'building cool web apps | pixel graphics | game development',  
     training: 'studying with freeCodeCamp | YouTube tutorials | building side quest mini projects',  
     mission: 'battling bugs and conquering deadlines like a digital warrior',
-    techStack: 'HTML | CSS | JavaScript | React.JS | Tailwind CSS'
-}</pre>
+    techSkills: 'HTML | CSS | JavaScript | React.JS | Tailwind CSS'
+};</pre>
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
