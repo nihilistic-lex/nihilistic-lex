@@ -3,7 +3,7 @@
 <pre>const devProfile = {  
     role: 'aspiring front-end web dev',  
     currentlyLearning: 'ReactJS', 
-    currentProjects: 'entertainment discussion board website | a medieval text-based city builder',  
+    currentProjects: 'a medieval text-based city builder game',  
     interests: 'building cool web apps | pixel graphics | game development',  
     training: 'studying with freeCodeCamp | YouTube tutorials | building side quest mini projects',  
     mission: 'battling bugs and conquering deadlines like a digital warrior',
